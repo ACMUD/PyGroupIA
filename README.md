@@ -8,6 +8,6 @@ Para referencia mi kaggle [msjimenezc](https://www.kaggle.com/msjimenezc), subo 
 
 
 Parte del código que corresponde a modelos de IA pertenece a:
-[Tensorflow image classification](https://www.tensorflow.org/tutorials/images/classification?hl=es)
-[Tensorflow text classification](https://www.tensorflow.org/tutorials/keras/text_classification?hl=es)
-[Tensorflow GANS](https://www.tensorflow.org/tutorials/generative/dcgan?hl=es)
+* [Tensorflow image classification](https://www.tensorflow.org/tutorials/images/classification?hl=es)
+* [Tensorflow text classification](https://www.tensorflow.org/tutorials/keras/text_classification?hl=es)
+* [Tensorflow GANS](https://www.tensorflow.org/tutorials/generative/dcgan?hl=es)
