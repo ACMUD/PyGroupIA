@@ -1,0 +1,28 @@
+nombre;nombre_gen;tipo;precio;valoracion;garantia;Vida_util_mes
+miniglide;Mouse;Periferico;20;3;0;5
+TechRodent;Mouse;Periferico;32;2.5;0;7
+Masterswipe;Mouse;Periferico;58;4;0;10
+Mightyscroller;Mouse;Periferico;80;4.6;0;15
+gizmoclick;Mouse;Periferico;70;4.8;0;20
+typomaster;Teclado;Periferico;30;2.3;0;10
+qwertyguardian;Teclado;Periferico;40;2.4;0;15
+enterwizard;Teclado;Periferico;46;4.6;0;17
+shiftmate;Teclado;Periferico;71;4.7;0;20
+escaper;Teclado;Periferico;80;4.5;0;26
+LCD 30hz pb23;Monitor;Periferico;80;4;2;36
+LCD 60hz pldas;Monitor;Periferico;100;4.5;3;39
+OLCD 60hz i3xaz;Monitor;Periferico;120;4.3;3;45
+QLED 60hz pb51;Monitor;Periferico;150;3.5;4;49
+QLED 60hz sd56;Monitor;Periferico;200;5;4;50
+laplux;Laptop;Computador;1300;4.7;5;71
+pixpad;Laptop;Computador;1930;4.6;4;74
+jetnote;Laptop;Computador;2300;4.8;5;79
+silverscreen;Laptop;Computador;2780;3.9;4;71
+lapjet;Laptop;Computador;2930;4.4;5;80
+lamina plastica;Protector;Complemento;8;2.5;0;72
+Vidrio templado;Protector;Complemento;16;4.8;0;72
+beatblaster;audifonos;accesorios;40;3.7;0;24
+earecho;audifonos;accesorios;60;4.5;0;24
+basspulse;audifonos;accesorios;90;4.6;2;27
+acusticflow;audifonos;accesorios;100;4.8;3;23
+generico;cargador;Complemento;15;5;0;96
