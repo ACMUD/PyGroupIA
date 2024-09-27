@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/ACMUD/PyGroupIA/blob/main/images/Banner.png" width="400px"></img>
+<img src="https://github.com/ACMUD/PyGroupIA/blob/main/images/Banner.png"></img>
 
 Es una rama de pygroup de ACMUD, la cual está orientada al machinelearning.
 
