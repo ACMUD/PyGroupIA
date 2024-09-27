@@ -1,8 +1,10 @@
-# PygroupIA
+
+
+<img src="https://github.com/ACMUD/PyGroupIA/blob/main/images/Banner.png" width="400px"></img>
 
 Es una rama de pygroup de ACMUD, la cual está orientada al machinelearning.
 
-En clases está el material que corresponde a python desde 0 a objetos, uso de librerías y ciencia de datos; y machine learning.
+En clases está el material que corresponde a ciencia de datos y machine learning.
 
 Para referencia mi kaggle [msjimenezc](https://www.kaggle.com/msjimenezc), subo de vez en cuando código.
 
